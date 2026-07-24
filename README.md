@@ -2,6 +2,19 @@
 
 This repository contains a MERN to-do application with separate frontend and backend codebases.
 
+## About the Project
+
+This project is a full-stack to-do app built with MongoDB, Express, React, and Node.js.
+Users can manage daily tasks through the frontend interface, while the backend handles API requests, data storage, and application logic.
+
+With this project, you can:
+
+- create new tasks
+- view saved tasks
+- update existing tasks
+- delete tasks
+- work with a separate frontend and backend during development
+
 ## Project Structure
 
 - `frontend/`: React + Vite client
